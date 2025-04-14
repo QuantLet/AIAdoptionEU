@@ -1,0 +1,11 @@
+Name of Quantlet: AIAdoptionEU
+
+Published in: Quantlet
+
+Description: 'Analyzes AI adoption trends among European enterprises from 2021-2023 using panel data modeling, PCA, and cluster analysis.'
+
+Keywords: AI adoption, European Union, panel data, cluster analysis, PCA, digital transformation, enterprise technology, digital infrastructure
+
+Author: Daniel Traian Pele
+
+Submitted: 2025-04-14 by Daniel Traian Pele
