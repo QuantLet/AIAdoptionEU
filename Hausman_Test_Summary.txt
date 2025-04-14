@@ -1,0 +1,32 @@
+                     Model Comparison                    
+=========================================================
+                          Fixed Effects    Random Effects
+---------------------------------------------------------
+Dep. Variable               AI_Adoption       AI_Adoption
+Estimator                      PanelOLS     RandomEffects
+No. Observations                     54                54
+Cov. Est.                        Robust            Robust
+R-squared                        0.0794            0.3312
+R-Squared (Within)               0.0794           -0.1307
+R-Squared (Between)             -0.1789            0.5426
+R-Squared (Overall)             -0.1638            0.5031
+F-statistic                      0.3793            4.7535
+P-value (F-stat)                 0.8575            0.0013
+=====================     =============   ===============
+Intercept                        7.9648            7.9648
+                               (35.536)          (12.733)
+PC1                             -0.1079            1.0599
+                              (-0.2335)          (4.0895)
+PC2                              0.2268           -0.5008
+                               (0.7382)         (-2.6300)
+PC3                              0.4937            0.2107
+                               (1.1282)          (0.5213)
+PC4                             -0.3040            0.2952
+                              (-0.2139)          (0.6351)
+PC5                              0.2029           -0.1213
+                               (0.2073)         (-0.2850)
+======================= =============== =================
+Effects                          Entity                  
+---------------------------------------------------------
+
+T-stats reported in parentheses

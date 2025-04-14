@@ -1,0 +1,29 @@
+                                             OLS Regression Results                                            
+===============================================================================================================
+Dep. Variable:     Enterprises use at least one of the AI technologies   R-squared:                       0.537
+Model:                                                             OLS   Adj. R-squared:                  0.427
+Method:                                                  Least Squares   F-statistic:                     9.547
+Date:                                                 Mon, 14 Apr 2025   Prob (F-statistic):           7.27e-05
+Time:                                                         11:46:02   Log-Likelihood:                -65.754
+No. Observations:                                                   27   AIC:                             143.5
+Df Residuals:                                                       21   BIC:                             151.3
+Df Model:                                                            5                                         
+Covariance Type:                                                   HC0                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+const          8.2185      0.532     15.454      0.000       7.176       9.261
+x1             1.1849      0.178      6.664      0.000       0.836       1.533
+x2            -0.0290      0.299     -0.097      0.923      -0.615       0.557
+x3             0.4081      0.472      0.864      0.387      -0.517       1.333
+x4            -0.1533      0.602     -0.255      0.799      -1.334       1.027
+x5            -0.3179      0.555     -0.573      0.567      -1.405       0.769
+==============================================================================
+Omnibus:                        1.898   Durbin-Watson:                   2.027
+Prob(Omnibus):                  0.387   Jarque-Bera (JB):                1.082
+Skew:                           0.033   Prob(JB):                        0.582
+Kurtosis:                       2.021   Cond. No.                         2.49
+==============================================================================
+
+Notes:
+[1] Standard Errors are heteroscedasticity robust (HC0)
